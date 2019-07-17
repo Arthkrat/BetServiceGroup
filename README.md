@@ -1,1 +1,1 @@
-# BetServiceGroup
+# Тестовое задание для BetServiceGroup
